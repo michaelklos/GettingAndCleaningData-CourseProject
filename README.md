@@ -12,7 +12,7 @@ As such, this project is composed of the following items:
     3. `CodeBook.md` - Describes the variables, the data, and transformations to create the resulting data set
     4. `README.md` (this) file, describing the contents of the Getting and Cleaning Data Course Project. 
 
-All of the above files are hosted on GitHub, [here](!!!! GITHUB LINK HERE !!!!). 
+All of the above files are hosted on GitHub, [here](https://github.com/michaelklos/GettingAndCleaningData-CourseProject). 
 
 ### Usage
 * Download project files noted above to working directory. 
