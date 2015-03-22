@@ -143,7 +143,7 @@ avgActivity <- trimSet %>%
         summarise_each(funs(mean)) %>%
         arrange(subject, activity)
 
-## Output Tidy Dataset to file (rowname=FALSE due to submission requirement)
-write.table(avgActivity, "AverageActivity.txt", rowname=FALSE)
+## Output Tidy Dataset to file (row.names=FALSE due to submission requirement)
+write.table(avgActivity, "AverageActivity.txt", row.names=FALSE)
 
 
